@@ -1,0 +1,73 @@
+
+@about
+*pho tu
+-khoang chung, sap, gan
++How about this?; We're about to strart
+@add
+*dong tu
+-them vao
++add this thing
+@apple
+*danh tu
+-qua tao
++I have an apple
+@army
+*danh tu
+-quan doi, doi quan
++I need an army; You're in the army now
+@ball
+*danh tu
+-qua bong
++They're refusin to play ball
+@bear
+*danh tu
+-congau
++It was a big bear
+@cold 
+*tinh tu
+-lanh
++Kill some body in cold blood; I feel so cold
+@dad
+*danh tu
+-cha
++My dad is a teacher
+@family
+*danh tu
+-gia dinh
++I love my family
+@father
+*danh tu
+-cha, ba, bo
++I love my father
+@girl
+*danh tu
+-co gai, con gai
++That girl is pretty
+@go
+*dong tu
+-di,di chuyen
++I have to go to work right now;
+@hat
+*danh tu
+-cai mu, cai non
++Please wear a hat
+@king 
+*danh tu
+-vua, chua
++Good king, bad king
+@mine
+*danh tu
+-qua min
++The money is all mine
+@test
+*dong tu
+-kiem tra
++this test is very hard
+@zone
+*danh tu
+-khu, mien
++The zone of influence
+@zoo
+*danh tu
+-so thu
++My father's talking me to the zoo this weekend

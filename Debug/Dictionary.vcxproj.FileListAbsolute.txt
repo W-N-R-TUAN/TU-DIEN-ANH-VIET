@@ -1,0 +1,4 @@
+C:\Users\Tuan.nv\source\repos\Dictionary\Debug\Dictionary.vcxproj.AssemblyReference.cache
+C:\Users\Tuan.nv\source\repos\Dictionary\Debug\Dictionary.MyForm.resources
+C:\Users\Tuan.nv\source\repos\Dictionary\Debug\Dictionary.vcxproj.GenerateResource.cache
+C:\Users\Tuan.nv\source\repos\Dictionary\Debug\Dictionary.exe

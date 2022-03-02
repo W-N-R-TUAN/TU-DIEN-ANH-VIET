@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Tuan.nv\source\repos\Dictionary\MyForm.h(617,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tuan.nv\source\repos\Dictionary\MyForm.h(620,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tuan.nv\source\repos\Dictionary\MyForm.h(623,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tuan.nv\source\repos\Dictionary\MyForm.h(626,21): warning C4018: '<': signed/unsigned mismatch
+  Backend.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Dictionary.vcxproj -> C:\Users\Tuan.nv\source\repos\Dictionary\Debug\Dictionary.exe
